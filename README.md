@@ -9,4 +9,10 @@ Weather conditions have an impact on human activity, and weather monitoring can 
 
 Furthermore, producing weather forecasts without data is challenging. When a person uses a weather station, they can also view the information's history. The trends in the measurements can be determined by the user. The user will be able to examine patterns more effectively as a result of this.
 
-![Case Diagram](https://ibb.co/WHk5Q9N)
+![Case Diagram](https://i.ibb.co/mt1dCW2/image1.jpg)
+
+### System Architecture
+
+Here are the general overview of the system architecture of our IoT weather monitoring system. For this project we will be using the M5STICKC for the device and it will be connected to DHT11 sensor to obtain temperature, humidity, and heat index data. The device will communicate using MQTT data protocol transmission for the data transmission and it will send the data to Heroku cloud platform and finally update the data on our simple dashboard app which we will be using thunkable that we will create later.
+
+![system architecture](https://i.ibb.co/KhHTqh1/IMAGE2.jpg)
