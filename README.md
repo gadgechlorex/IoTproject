@@ -16,3 +16,15 @@ Furthermore, producing weather forecasts without data is challenging. When a per
 Here are the general overview of the system architecture of our IoT weather monitoring system. For this project we will be using the M5STICKC for the device and it will be connected to DHT11 sensor to obtain temperature, humidity, and heat index data. The device will communicate using MQTT data protocol transmission for the data transmission and it will send the data to Heroku cloud platform and finally update the data on our simple dashboard app which we will be using thunkable that we will create later.
 
 ![system architecture](https://i.ibb.co/KhHTqh1/IMAGE2.jpg)
+
+### Sensor
+
+
+### Cloud Platform
+
+
+### Dashboard
+
+This are the prototype dashboard that we will be creating later using Thunkable App. It will display the temperature, humidity and heat index and also simple data like date and day.
+
+![Dashboard](https://i.ibb.co/HF9XnbR/image3.jpg)
