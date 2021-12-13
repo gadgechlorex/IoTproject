@@ -19,6 +19,12 @@ Here are the general overview of the system architecture of our IoT weather moni
 
 ### Sensor
 
+#### Proposed Device: M5STICKC
+
+![M5](https://images-na.ssl-images-amazon.com/images/I/51ykxk9ZYoL.jpg)
+
+#### Proposed Data Transmission Protocol : MQTT
+
 
 ### Cloud Platform
 
