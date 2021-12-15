@@ -243,6 +243,6 @@ void loop() {
 
 ### Dashboard
 
-This are the prototype dashboard that we will be creating later using Thunkable App. It will display the temperature, humidity and heat index and also simple data like date and day.
+This are the prototype dashboard that we will be creating later using Google Data Studio. It will display the temperature, humidity and heat index and also simple data like date and day.
 
 ![Dashboard](https://i.ibb.co/LSsG0yz/dashboard.jpg)
