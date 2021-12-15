@@ -236,7 +236,7 @@ void loop() {
 ```
 </details>
   
-![](https://i.ibb.co/1m4fcFt/Whats-App-Image-2021-12-15-at-20-33-40.jpg)
+<img src="https://i.ibb.co/1m4fcFt/Whats-App-Image-2021-12-15-at-20-33-40.jpg" alt="sample" width="400"/> 
   
 ### Cloud Platform
 
