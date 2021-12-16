@@ -240,6 +240,7 @@ void loop() {
   
 ### Cloud Platform
 
+This is the [video](https://www.youtube.com/watch?v=0j9s8jk-LtA&ab_channel=MOHDHAFEEZSHAHRIL) of how deploying Flask app to Heroku
 
 ### Dashboard
 
