@@ -241,7 +241,9 @@ void loop() {
 ### Cloud Platform
 
 Backend Framework: Flask
+
 Cloud Hosting Platform: Heroku
+
 URL of our Flask App: https://weather-m3.herokuapp.com/
 
 This is the [video](https://www.youtube.com/watch?v=0j9s8jk-LtA&ab_channel=MOHDHAFEEZSHAHRIL) of how we deploy Flask app to Heroku
