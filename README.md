@@ -240,10 +240,14 @@ void loop() {
   
 ### Cloud Platform
 
-This is the [video](https://www.youtube.com/watch?v=0j9s8jk-LtA&ab_channel=MOHDHAFEEZSHAHRIL) of how deploying Flask app to Heroku
+Backend Framework: Flask
+Cloud Hosting Platform: Heroku
+URL of our Flask App: https://weather-m3.herokuapp.com/
+
+This is the [video](https://www.youtube.com/watch?v=0j9s8jk-LtA&ab_channel=MOHDHAFEEZSHAHRIL) of how we deploy Flask app to Heroku
 
 ### Dashboard
 
-This are the prototype dashboard that we will be creating later using Google Data Studio. It will display the temperature, humidity and heat index and also simple data like date and day.
+This is the prototype dashboard that we will be creating later using Google Data Studio. It will display the temperature, humidity and heat index and also simple data like date and day.
 
 ![Dashboard](https://i.ibb.co/LSsG0yz/dashboard.jpg)
