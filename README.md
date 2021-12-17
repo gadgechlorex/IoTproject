@@ -13,9 +13,9 @@ Furthermore, producing weather forecasts without data is challenging. When a per
 
 ### System Architecture
 
-Here are the general overview of the system architecture of our IoT weather monitoring system. For this project we will be using the M5STICKC for the device and it will be connected to DHT11 sensor to obtain temperature, humidity, and heat index data. The device will communicate using MQTT data protocol transmission for the data transmission and it will send the data to Moquitto broker then to Heroku Cloud platform and finally update the data on our simple dashboard app which we will be using google web dashboard that we will create later.
+Here are the general overview of the system architecture of our IoT weather monitoring system. For this project we will be using the M5STICKC for the device and it will be connected to DHT11 sensor to obtain temperature, humidity, and heat index data. The device will communicate using HTTP data protocol transmission for the data transmission and it will send the data to Heroku Cloud platform and finally update the data on our simple dashboard app which we will be using google web dashboard that we will create later.
 
-![system architecture](https://i.ibb.co/68TG5rx/Capture.jpg)
+![system architecture](https://i.ibb.co/RvBLGVK/Capture2.jpg)
 
 ### Sensor
 
@@ -23,7 +23,7 @@ Here are the general overview of the system architecture of our IoT weather moni
 
 ![M5](https://images-na.ssl-images-amazon.com/images/I/51ykxk9ZYoL.jpg)
 
-#### Proposed Data Transmission Protocol : MQTT
+#### Proposed Data Transmission Protocol : HTTP
 
 #### Code Sample
 
