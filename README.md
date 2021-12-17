@@ -1,6 +1,20 @@
 # IoTproject
 A simple IoT project for Software Engineering course (SKEL413) on a weather monitoring system using M5stickC with DHT11 sensor to obtain the data
 
+### Table of Contents
+
+- [IoTproject](#iotproject)
+  * [IoT Weather Monitoring System](#iot-weather-monitoring-system)
+    + [Problem Statement](#problem-statement)
+      - [Use Case Description - Report Weather](#use-case-description---report-weather)
+    + [System Architecture](#system-architecture)
+    + [Sensor](#sensor)
+      - [Proposed Device: M5STICKC](#proposed-device--m5stickc)
+      - [Proposed Data Transmission Protocol : HTTP](#proposed-data-transmission-protocol---http)
+      - [Code Sample](#code-sample)
+    + [Cloud Platform](#cloud-platform)
+    + [Dashboard](#dashboard)
+
 ## IoT Weather Monitoring System
 
 ### Problem Statement
