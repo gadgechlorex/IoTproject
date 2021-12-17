@@ -11,6 +11,19 @@ Furthermore, producing weather forecasts without data is challenging. When a per
 
 ![Case Diagram](https://i.ibb.co/mt1dCW2/image1.jpg)
 
+#### Use Case Description - Report Weather
+
+
+|        | Description |
+| ------- | ---------------|
+| System | Weather Station |
+| Use Case | Report Weather |
+| Actors | Weather Station, User that retrieve information |
+| Data | The weather station sends summary of weather data that has been collected from the sensors. The data will be covering on the temperature, humidity and heat index |
+| Stimulus | The weather station establish communication link with the user to send requested transmission of the data |
+| Response | The summarized data are sent to the user |
+| Comments | Weather station usually asked to report once per hour but the frequency may differ from one station to another and may be modified in the future |
+
 ### System Architecture
 
 Here are the general overview of the system architecture of our IoT weather monitoring system. For this project we will be using the M5STICKC for the device and it will be connected to DHT11 sensor to obtain temperature, humidity, and heat index data. The device will communicate using HTTP data protocol transmission for the data transmission and it will send the data to Heroku Cloud platform and finally update the data on our simple dashboard app which we will be using google web dashboard that we will create later.
