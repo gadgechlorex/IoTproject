@@ -4,7 +4,8 @@ A simple IoT project for Software Engineering course (SKEL413) on a weather moni
 ### Table of Contents
 
 - [IoTproject](#iotproject)
-  * [IoT Weather Monitoring System](#iot-weather-monitoring-system)
+    + [Table of Contents](#table-of-contents)
+  * [IoT Weather Monitoring System (Milestone2)](#iot-weather-monitoring-system--milestone2-)
     + [Problem Statement](#problem-statement)
       - [Use Case Description - Report Weather](#use-case-description---report-weather)
     + [System Architecture](#system-architecture)
@@ -14,8 +15,9 @@ A simple IoT project for Software Engineering course (SKEL413) on a weather moni
       - [Code Sample](#code-sample)
     + [Cloud Platform](#cloud-platform)
     + [Dashboard](#dashboard)
-
-## IoT Weather Monitoring System
+  * [Sending Data from Device to Server (Milestone3)](#sending-data-from-device-to-server--milestone3-)
+   
+## IoT Weather Monitoring System (Milestone2)
 
 ### Problem Statement
 
@@ -161,3 +163,8 @@ This is the [video](https://www.youtube.com/watch?v=0j9s8jk-LtA&ab_channel=MOHDH
 This is the prototype dashboard that we will be creating later using Google Data Studio. It will display the temperature, humidity and heat index and also simple data like date and day.
 
 ![Dashboard](https://i.ibb.co/LSsG0yz/dashboard.jpg)
+ 
+ 
+## Sending Data from Device to Server (Milestone3)
+ 
+ This [video](https://www.youtube.com/watch?v=uhskLcaG-fc) shows how we display DHT11 sensor data connected to ESP32 device to Flask API server deployed on Heroku using Httpclient.
