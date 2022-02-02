@@ -1,0 +1,9 @@
+psql --host=ec2-34-232-25-204.compute-1.amazonaws.com --port=5432 --username=hixbecdmrrcvyn --password --dbname=d7k7vrv431ico3
+
+pw=    3c2759024c0bc8cea6c55e6c4d72996a76391e279c92e14d14c721aab54b2a23
+
+
+heroku pg:psql --app weather-m3 < weatherm3app.sql
+
+
+postgres://hixbecdmrrcvyn:3c2759024c0bc8cea6c55e6c4d72996a76391e279c92e14d14c721aab54b2a23@ec2-34-232-25-204.compute-1.amazonaws.com:5432/d7k7vrv431ico3
