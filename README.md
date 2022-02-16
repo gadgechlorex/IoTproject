@@ -168,3 +168,28 @@ This is the prototype dashboard that we will be creating later using Google Data
 ## Sending Data from Device to Server (Milestone3)
  
  This [video](https://www.youtube.com/watch?v=uhskLcaG-fc) shows how we display DHT11 sensor data connected to ESP32 device to Flask API server deployed on Heroku using Httpclient.
+    
+## Steps to reproduce the Flask dashboard in local machine
+    
+1.	git clone the repository into local computer.
+2.	Open the cloned file.
+3.	Create and activate the virtual environment for the app.
+
+In Linux terminal
+    
+    sudo apt install -y python3-venv
+    virtualenv venv
+    source venv/bin/activate
+    
+In Windows terminal
+    
+    virtualenv venv
+    cd venv\Scripts
+    .\activate
+    cd ..\..
+    
+4.	Install the requirements in the virtual environment
+   
+```
+pip install requirements.txt
+
