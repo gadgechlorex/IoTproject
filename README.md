@@ -171,7 +171,7 @@ This is the prototype dashboard that we will be creating later using Google Data
     
 ## Steps to reproduce the Flask dashboard in local machine
     
-1.	git clone the repository into local computer.
+1.	```git clone``` the repository into local computer.
 2.	Open the cloned file.
 3.	Create and activate the virtual environment for the app.
 
