@@ -197,12 +197,20 @@ pip install requirements.txt
 
 ## Sending data to Database, Flask server reads data from Database (Milestone 4)
 
+    
 Milestone video: https://youtu.be/mrL7rPCOjWA
 
 
 ## Improvement on UI (Milestone 5)
 
-# User's Comments:
+## User's Comments:
     
 ```
-1. 
+1. Connection not stable
+2. No Graph showed up the data
+3. No Charts
+4. Too Plain & Simple
+5. No gauge for dashboard
+```
+
+##
