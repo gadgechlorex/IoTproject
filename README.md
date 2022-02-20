@@ -213,4 +213,29 @@ Milestone video: https://youtu.be/mrL7rPCOjWA
 5. No gauge for dashboard
 ```
 
-##
+## Steps to reproduce and clone Milestone 5
+
+1. ```git clone``` the repository into local computer.
+2.	Open the cloned file.
+3.	Create and activate the virtual environment for the app.
+
+In Linux terminal
+    
+    sudo apt install -y python3-venv
+    virtualenv venv
+    source venv/bin/activate
+    
+In Windows terminal
+    
+    virtualenv venv
+    cd venv\Scripts
+    .\activate
+    cd ..\..
+    
+4.	Install the requirements in the virtual environment
+   
+```
+pip install requirements.txt
+```
+
+5. Install PostgreSQL database
