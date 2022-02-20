@@ -192,7 +192,7 @@ In Windows terminal
    
 ```
 pip install requirements.txt
-...
+
 
 ## Milestone 4: Send sensor data to database and Flask server reads data from database
 
