@@ -195,5 +195,7 @@ pip install requirements.txt
 
 ```
 
-## Sending data to Database, Flask server reads data from Database
+## Sending data to Database, Flask server reads data from Database (Milestone 4)
+
+Milestone video: https://youtu.be/mrL7rPCOjWA
     
