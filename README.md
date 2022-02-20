@@ -192,3 +192,8 @@ In Windows terminal
    
 ```
 pip install requirements.txt
+
+```
+
+## Sending data to Database, Flask server reads data from Database
+    
