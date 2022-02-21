@@ -238,4 +238,5 @@ In Windows terminal
 pip install requirements.txt
 ```
 
-5. Install PostgreSQL database from this [link](https://www.postgresqltutorial.com/install-postgresql-linux/)
+5. Install PostgreSQL from this [link](https://www.postgresqltutorial.com/install-postgresql-linux/)
+
