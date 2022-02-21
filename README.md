@@ -203,6 +203,8 @@ This [video](https://youtu.be/mrL7rPCOjWA) shows the result of Milestone 4 where
 
 ## Improvement on UI (Milestone 5)
 
+This [video](https://www.youtube.com/watch?v=xdDOUuAZL9Y&ab_channel=SarahNurfathiahAbdulRahmanB19EE0044) shows how our testimony user used our product and commented on the UI. Some UI imporvement have been made to the web based on the comments.
+    
 ## User's Comments:
     
 ```
@@ -212,6 +214,17 @@ This [video](https://youtu.be/mrL7rPCOjWA) shows the result of Milestone 4 where
 4. Too Plain & Simple
 5. No gauge for dashboard
 ```
+
+## UI Comparison
+
+Old UI:
+
+![old_UI](https://user-images.githubusercontent.com/94098651/154957947-0b63523d-5bdf-49b5-8c7d-add278d54621.JPG)
+
+New UI:
+
+![new_UI](https://user-images.githubusercontent.com/94098651/154958222-1607e79b-3f5d-42bf-b526-baa996b2f56f.JPG)
+    
 
 ## Steps to reproduce and clone Milestone 5
 
