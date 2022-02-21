@@ -198,7 +198,7 @@ pip install requirements.txt
 ## Sending data to Database, Flask server reads data from Database (Milestone 4)
 
     
-Milestone video: https://youtu.be/mrL7rPCOjWA
+This [video](https://youtu.be/mrL7rPCOjWA) shows the result of Milestone 4 where we save our real-time data in our database. We used PosgreSQL as it is easy to deploy with heroku
 
 
 ## Improvement on UI (Milestone 5)
@@ -238,4 +238,4 @@ In Windows terminal
 pip install requirements.txt
 ```
 
-5. Install PostgreSQL database
+5. Install PostgreSQL database from this [link](https://www.postgresqltutorial.com/install-postgresql-linux/)
